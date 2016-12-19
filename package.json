@@ -1,5 +1,5 @@
 {
-  "name": "mapspai-signature",
+  "name": "mapsapisign",
   "version": "1.0.0",
   "description": "Generate a HMAC-SHA1 signature in node.js for Google Maps API",
   "main": "index.js",
