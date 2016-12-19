@@ -5,7 +5,7 @@ Generate correct URL signatures using Secret Key from Google API Console.
 Useful for Quota tracking APIs like Streetview Image API.
 
 ## READ MORE
-	[Google Developer Docs](https://developers.google.com/maps/documentation/streetview/get-api-key?hl=en_US)
+[Google Developer Docs](https://developers.google.com/maps/documentation/streetview/get-api-key?hl=en_US)
 
 ## Install
     npm install mapsapi-signature
