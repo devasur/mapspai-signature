@@ -5,5 +5,9 @@
   "main": "index.js",
   "author": "Boni Gopalan",
   "license": "MIT",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:devasur/mapspai-signature.git"
+  }
 }
